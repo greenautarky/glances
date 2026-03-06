@@ -1,3 +1,5 @@
+> **GreenAutarky Build** — This is a customized version maintained by [GreenAutarky](https://github.com/greenautarky). Based on [hassio-addons/addon-glances](https://github.com/hassio-addons/addon-glances) by Franck Nijhof. Licensed under MIT.
+
 # Home Assistant Community Add-on: Glances
 
 [![GitHub Release][releases-shield]][releases]
